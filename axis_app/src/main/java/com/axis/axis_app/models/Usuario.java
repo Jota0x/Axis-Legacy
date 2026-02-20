@@ -1,4 +1,4 @@
-
+package com.axis.axis_app.models;
 
 public class Usuario {
 
@@ -70,13 +70,5 @@ public class Usuario {
         setNDC(NDC);
 
     }
-
-
-
-
-
-
-
-
 
 }
