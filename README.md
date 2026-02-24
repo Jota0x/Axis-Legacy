@@ -5,4 +5,4 @@ Este projeto está sendo desenvolvido em **Java** com o framework **Spring Boot*
 
 ## Status do Projeto: Em Construção
 
-Atualmente, o projeto está na fase de estruturação da lógica de negócio e modelos de dados.
+Repositório Antigo do Projeto.
